@@ -1,0 +1,38 @@
+* {
+	font-family: 'Lobster', cursive;
+}
+
+body {
+	background-color: #f6cd6a;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+}
+
+#val {
+	width: 50%;
+    height: 40px;
+    margin-left: 24%;
+    font-size: 38px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+#results {
+	font-size: 40px;
+	text-align: center;
+}
+
+#sub {
+	height: 50px;
+	font-size: 38px;
+	background-color: #a3fb60;
+	border: none;
+	border-radius: 5%;
+}
+
+.palindrom {
+	font-size: 25px;
+}
